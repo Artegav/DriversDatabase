@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDriver xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Driver>
+    <Cars>
+      <Car>
+        <Name>3008</Name>
+        <Brand>Peugeot</Brand>
+      </Car>
+      <Car>
+        <Name>SX4</Name>
+        <Brand>Suzuki</Brand>
+      </Car>
+    </Cars>
+    <Name>Artemiy</Name>
+    <FavColor>Violet</FavColor>
+  </Driver>
+  <Driver>
+    <Cars>
+      <Car>
+        <Name>S Class</Name>
+        <Brand>Mercedes Benz</Brand>
+      </Car>
+      <Car>
+        <Name>Q5</Name>
+        <Brand>Audi</Brand>
+      </Car>
+      <Car>
+        <Name>SX4</Name>
+        <Brand>Suzuki</Brand>
+      </Car>
+    </Cars>
+    <Name>Daria</Name>
+    <FavColor>Green</FavColor>
+  </Driver>
+  <Driver>
+    <Cars>
+      <Car>
+        <Name>Q3</Name>
+        <Brand>Audi</Brand>
+      </Car>
+    </Cars>
+    <Name>Ray</Name>
+    <FavColor>Yellow</FavColor>
+  </Driver>
+</ArrayOfDriver>
